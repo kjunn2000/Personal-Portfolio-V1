@@ -105,7 +105,7 @@ class Cards extends Component{
             title:'Personal Portfolio',
             subTitle:'React | Bootstrap | Nodejs',
             description:'This portfolio is the first version of my portfolio. It mainly written in react and using bootstap to beautify. It consists of four part which are home, about, project and contact. This portfolio helps to introduce myself and show my project and skill set to employers. It provides opportunities to let employers know my potential.',
-            url:'https://github.com/kjunn2000/Tuition-Centre-Management-System'
+            url:'https://github.com/kjunn2000/Portfolio'
           }
         }
     }
